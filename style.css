@@ -1,3 +1,7 @@
+body{
+    background-color: #202124;
+}
+
 ul {
     list-style-type: none;
     overflow: hidden;
@@ -14,6 +18,7 @@ li a {
     padding: 10px 10px;
     text-decoration: none;
     font-size: 14px;
+    font-family: arial,sans-serif;
 }
 
 li a:hover {
@@ -64,6 +69,7 @@ li a:hover {
     width: 500px;
     font-size: 16px;
     outline: none;
+    background-color: #202124;
 }
 
 .voice{
