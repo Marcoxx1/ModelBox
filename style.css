@@ -50,8 +50,8 @@ li a:hover {
 .bar{
     margin: 0 auto;
     width: 575px;
-    border-radius: 30px;
-    border: 1px solid #dcdcdc;
+    border-radius: 24px;
+    border: 1px solid #5f6368;
 }
 
 .bar:hover{
@@ -66,7 +66,7 @@ li a:hover {
 .searchbar{
     height: 45px;
     border: none;
-    width: 500px;
+    width: 485px;
     font-size: 16px;
     outline: none;
     background-color: #202124;
